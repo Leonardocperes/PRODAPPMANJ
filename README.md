@@ -2,10 +2,15 @@
  
 ---
 title: "Influência da APP na produção de madeira na floresta Amazônica"
+
 author: "Leonardo C. Peres"
+
 date: "`r Sys.Date()`"
+
 description: Análise exploratória e estatística de dados da floresta Amazônica
+
 output: pdf_document
+
 always_allow_html: yes
 ---
 
